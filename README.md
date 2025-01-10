@@ -1,1 +1,1 @@
-# Bit_Boost-
+# EC_20_Token_App-
